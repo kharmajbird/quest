@@ -1,7 +1,7 @@
 {
   "name": "quest",
   "version": "1.0.0",
-  "description": "",
+  "description": "### Q. What is this quest?",
   "main": "src/000.js",
   "scripts": {
     "start": "node src/000.js"
@@ -11,5 +11,13 @@
   },
   "keywords": [],
   "author": "Rearc",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kharmajbird/quest.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kharmajbird/quest/issues"
+  },
+  "homepage": "https://github.com/kharmajbird/quest#readme"
 }
